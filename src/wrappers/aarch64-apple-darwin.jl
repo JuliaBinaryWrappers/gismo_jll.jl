@@ -8,7 +8,7 @@ function __init__()
     JLLWrappers.@generate_init_header(LLVMOpenMP_jll)
     JLLWrappers.@init_library_product(
         libgismo,
-        "lib/libgismo.25.1.0.dylib",
+        "lib/libgismo.25.7.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

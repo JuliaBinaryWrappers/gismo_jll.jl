@@ -1,316 +1,316 @@
 [[gismo]]
 arch = "aarch64"
-git-tree-sha1 = "5f4a74d0a2ee921ce40d7d636feb5882ccfbe48f"
+git-tree-sha1 = "49689ca3722fe8ab2a6b8090973f98a8ea81c731"
 os = "macos"
 
     [[gismo.download]]
-    sha256 = "17df3187269edd1aa751b12f5f43a5aeceb12a92616c09874c669dfa207fca2d"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "bf7d639d7d45612d9a0f017fbf922d38515f31dc84e68f0d74cc66cc39916975"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.aarch64-apple-darwin.tar.gz"
 [[gismo]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ffa01cff9216ad0fb3af7f8d6fe6e72dcc846d2c"
+git-tree-sha1 = "6358da42da149a96057220086510b7f81312f5e8"
 libc = "glibc"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "e5fa4be7cb5fe5ba270781f330452b6ea288733c55d75d3071a4ff67422a88fa"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "871cae552f79cb373bf3c2d141b3447904bc0e447c48207999c6ca3afe1cd4a2"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.aarch64-linux-gnu-cxx03.tar.gz"
 [[gismo]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b9be3fdb51c39aeb85669ed20129e703c558e823"
+git-tree-sha1 = "615861d5d261cb5ef7481220478a11073ec60cee"
 libc = "glibc"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "1d589cf1ed86f4583d631e69b0b83352d6d73f0733f6c3bbfb3c8ffcf50f214d"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "d73ab48f3d8503233a3efe5cfd38db70e9259b901a90fde9797020f2d364cce8"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[gismo]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "838818917e36d16d7f0ce82a8a118958a812835f"
+git-tree-sha1 = "d0055dcb8266b7b9d2830480b8642e06cc686b06"
 libc = "musl"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "b00cb225fca240a8039c586e657fe5d148ccd86d9972038a2c58379156286e59"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "789aa4303b737bd2bb99a8db03318c01b3eace366714b3cb99d45aa8357fb715"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.aarch64-linux-musl-cxx03.tar.gz"
 [[gismo]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "78ca1bc577c88d29d4dfc0fedea18269b862035f"
+git-tree-sha1 = "8f99612ec66e731f3066c5489ad73625545faaf6"
 libc = "musl"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "58e12434768bfce8c00b10b6c669f2bdb163da129e0137cd10bc08fbdf250281"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "dfec4d52c425515aa0b402d9153f9d69d8452776553e27fdf1439047b201b7d6"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.aarch64-linux-musl-cxx11.tar.gz"
 [[gismo]]
 arch = "aarch64"
-git-tree-sha1 = "5fa25db6e67add5e2d02fcf3527a754bb17cbe81"
+git-tree-sha1 = "38d047bbafd31a1fb934418c21ee681cc26277d0"
 os = "freebsd"
 
     [[gismo.download]]
-    sha256 = "0571478734a2bdcc26260b92ca985fe0d6d959bbc168b2e19ca47ada06d981c7"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "f961cfc479632afe49eb2232ed228006a8065dd59801fdbe7927a8f355c61a68"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.aarch64-unknown-freebsd.tar.gz"
 [[gismo]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "42e2dc58fb14841e3b102d40575efa4ad01e8059"
+git-tree-sha1 = "9eeca3e8a2fb8e0e39f292f1d322390800761c89"
 libc = "glibc"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "7d006a18d05e8b671e4644831d8483dc2d0dc792dba2dae0681ea20d80668587"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "534d2fe86071b3fc052ab62b5741dc92ebd7a7b5f6ba015cdc1666f641182674"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[gismo]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "071c4c9e9213ffbd50129260af512b0874863e81"
+git-tree-sha1 = "45486109259c531d915d2f4b9878d2370a9ae166"
 libc = "glibc"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "a68f0308564582b08fd74a5f50b9cc3ee176ad60fc89abc6ba10c579f71455c7"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "767c63559779344204f110b992c1bcc0e1054211bf059da6f87261783ac7ef41"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[gismo]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f7ba0f30b3090f63df997c9e4c25ee31c20a250f"
+git-tree-sha1 = "81378c73581aba90bb80902169e2a1411c25dd6d"
 libc = "musl"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "e76ba2038d51cf110f09fa17c6aab3b08ecc52c41b4698e753263036f7c1fcaf"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "b4afd121f15f6e2b858b708ba5f2221ed098253b3b35dcf523542316389edf09"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[gismo]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "359f9ca23fb35fc049ca2479a3a169b4e88fbaaf"
+git-tree-sha1 = "dc101a2ba04cd30ea4169e754f528f8391c64305"
 libc = "musl"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "71dd9061b07f2d5428b67f5496ebba10f5ffbad216f55852aa52ef1cdd1da1f3"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "c77cd5d93bf4ea937562c144b20f4601ff99e13701db0a40db55bc5cf345066b"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[gismo]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "39b4c671a2f2e0609dad09de4fa5b3da95e9db23"
+git-tree-sha1 = "f2bb1caf7d4800c77e67cfef687e89c3026d3dac"
 libc = "glibc"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "a2d74e1190954cc757ba9b972a798c09001467645be925bf748c6f47ad4fea93"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "797bdd388617fd1a64a6382a00325b50afecda38c82565b468853d485e0b4cfa"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[gismo]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6d9bff72ca93b66f76477c4ed8113cabccdf2623"
+git-tree-sha1 = "50e2680e296df693c4c59e9908efd3553fb6ed91"
 libc = "glibc"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "39ba671af5df76c1b111559226fffd7e8e99694057c93e8411d6b6121bab4234"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "ced537cd390b83c18814ffb26bab4b694a1009ebb79a821def3ddb7c9e8ef244"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[gismo]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9f5f639a36a00551a0912899d751506b480f0f70"
+git-tree-sha1 = "4fba33787963cf8530d019532960e36426c52bb8"
 libc = "musl"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "42f0c09a3dfe3c7ecfaaa01898d177bca0a95866c02cb2f56268a4efc8170986"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "f685aed4e0337b088428eae3518b13aac3469339c3b7e1a7d1c691f1519d4b47"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[gismo]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1c0d670feea5a097be733531b2cb51e1cc34309a"
+git-tree-sha1 = "1c1696ae3919db245b0763a18e02cf0c6d907894"
 libc = "musl"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "fa97b3925630ebe8a9e33d2707d44870707db4857942b3066b736031ef933df3"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "73a137dba96e9b64303b3bb101523b747faf4b3baca4521fe3ee05bceab489e4"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[gismo]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "32fd6771b956a0316b6a829be95c93c9cbab9878"
+git-tree-sha1 = "8662bb70f243a627b5662b68bf656c0c02cc314d"
 libc = "glibc"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "017f43d45281852329c628fd8958949cbdc4e7c8b5cb8468a177058dd1f5cc2c"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "03039c5f0ac46741be6905ffc169f71d9bff1d3fc85e0cee478d0e40564f91ff"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.i686-linux-gnu-cxx03.tar.gz"
 [[gismo]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4fe1c6f54a2347d80455a4c7360c349525034052"
+git-tree-sha1 = "f6202991584a7ee06dce7846f9f25b5ec9d1f5f8"
 libc = "glibc"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "012e1684c0333f256246816d9a223c9f43b2e49aff91aba14c624a2c7110ab5b"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "9c1e9a6f3287d5dacce1aa6e5a8124838b88772aa56dd479c21bce0b11d55756"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.i686-linux-gnu-cxx11.tar.gz"
 [[gismo]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b818beb44bc4add32f8f7f9785ee797baaccefb1"
+git-tree-sha1 = "3eb77a91ff1a51eab693a3c18411c2d49ceae3af"
 libc = "musl"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "69f10c14022f480786322dc3ff5cc689918cb7acacedc0bca3ac46cc42d07243"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "ca028f645aca2a99da208cd9b4028b4853c96e742b42dede61c1c58d5258325b"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.i686-linux-musl-cxx03.tar.gz"
 [[gismo]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "87f30ad6213652f96f0804594a32a7a9be445062"
+git-tree-sha1 = "bfc6ba1449164676414393b7776b87cc36fdf272"
 libc = "musl"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "30a7c6456f8f814a1f8c21942924d9afbedc8821427826c75a92b5df49630d6a"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "d0b84defadc6e3c57346cc9263bd824f0895661a1e04b745d27dd02ee2f302fd"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.i686-linux-musl-cxx11.tar.gz"
 [[gismo]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7e48f4b51afe58ec3fde679c81a31426fface4ba"
+git-tree-sha1 = "7a05bbe8471d323dfc7d266ecb5d9fb0fcac0bf4"
 os = "windows"
 
     [[gismo.download]]
-    sha256 = "cf85ebf24bcd1aa4aed46b3798ae9f09857cdaa206145f086c3a80f7b96fa077"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "c7a5cf82eac58bfeb28a0ce04d48751db8dc3621072ed47e69e05e8f5dfdd1e3"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.i686-w64-mingw32-cxx03.tar.gz"
 [[gismo]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a2c435c0d232b48a527b5e293ff0751d77f4159a"
+git-tree-sha1 = "4a7d64d9fb14309b8c349e4ee3dbf06aaa45315a"
 os = "windows"
 
     [[gismo.download]]
-    sha256 = "550a110bfa0a74fbfdf1a5a2e0443aae5963b51976576040e88317d0498d2afb"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "48614369bb079a8e211f9f747b6717de12e1ef355efe5cc44a666da411aff5c5"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.i686-w64-mingw32-cxx11.tar.gz"
 [[gismo]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "afafc15f6398501222aebee4b8d850c22e3a26b2"
+git-tree-sha1 = "f568ca03635ca866dea6f6e4460915ba9c927a85"
 libc = "glibc"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "45378c9db4b82155bda1eff86f118c136f21161377f29e1ec6c1412352c46d7c"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "3a1362aecfec2b95c7016221dbcc89e2c45ec30a527e3a9aa16c2dc04a712a51"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[gismo]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6ee19b4508badb240bde52286be8af3fdfd9e753"
+git-tree-sha1 = "09593f1f93ae38c626b8e36a6e0b5df5c81ac943"
 libc = "glibc"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "1ec44a3e02214be4a9018acb4fd02aca987ec71941d2787b7497bd8e1d0320ee"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "494e338c1dbbcaf64b5d17d95ae5d1907c8d0dd17cee73df849bcd1aa8c6e2de"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[gismo]]
 arch = "riscv64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e51ccf3d74fc7e2ba9f247df343c5cd49adcf2a0"
+git-tree-sha1 = "24b135fc14e0c059b4ab80e3035069987df05cab"
 libc = "glibc"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "85b46341be8b7e16558b25eacaabc9a05658303170572989fc10ad1528a60379"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.riscv64-linux-gnu-cxx03.tar.gz"
+    sha256 = "a3b2f8a4f18791cacd6e5427c8004a0c81e6b92b2111d9fc6c04c2c5f7111ee9"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.riscv64-linux-gnu-cxx03.tar.gz"
 [[gismo]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0ec46a1e3a16f71cd7475157dc9459cbd2a017bd"
+git-tree-sha1 = "dd4ff4e0fef872e5bba89e54c7d22f43d569f2d8"
 libc = "glibc"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "59040e33b347530a28ce86f9030417e8df2732c764d9e02c05e8aacde8ebf8a1"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "e930a5b6d1462fbd106848724da3a1d4b9e58a3c4ef47c5903a03c6507c3f825"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.riscv64-linux-gnu-cxx11.tar.gz"
 [[gismo]]
 arch = "x86_64"
-git-tree-sha1 = "2d217a87fe7afd2fabfcee6a511f84201900bc68"
+git-tree-sha1 = "90d197629864302c95498ce79bd0b2690a6d748e"
 os = "macos"
 
     [[gismo.download]]
-    sha256 = "f8ca28a18377903e6784c7a461efe12db01a5b670f9a1cc476375f7228618737"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "764987b9507a74486c2707f98d430dcb28d3c15ab68304ea635d17d70da41534"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.x86_64-apple-darwin.tar.gz"
 [[gismo]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e86efaa8f1a4c89313da03bdb02634aafb3d4ffe"
+git-tree-sha1 = "822311a03f819bdee8052b856e6602ccf3814eb8"
 libc = "glibc"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "6f00463e494ae3bd4bfae48af1fdf58d30d42058fcc5ea136777a39d9b974ef5"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "23ebd70ad8e04aeaaa2badb2708c36a1021eb7a0a247d6cdd7d79b25f363b04a"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.x86_64-linux-gnu-cxx03.tar.gz"
 [[gismo]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4827df533be4173068fab056ca2c8798be5db4a1"
+git-tree-sha1 = "945ae333d9b1e07388361d288aad6697bee4fc05"
 libc = "glibc"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "29c2592ab8829e6aef8d7f1e8da4209654721d56e9940c53f9804dbcd85de0a6"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "4d78c42f8522c715e9a57c240fe1b9b7c72d849384959535f3acea30e1d248a0"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[gismo]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c7c0b28dfc2c17d3f61fd1ddc7e74b02c5205ed9"
+git-tree-sha1 = "87cde0e6d2769e81a540c6d25062758adccf5c2a"
 libc = "musl"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "6a5ca5f8aff1a8e657968172f0f83ff17e51654f5123f8443f109c5bdd36b2a0"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "a15e4a259a5e8fcad200a47b315941592c0ab59735d0dfcf1d549b4d1aaef844"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.x86_64-linux-musl-cxx03.tar.gz"
 [[gismo]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4805c5502090f3f7a2657e0ed677fcc9b25d3bab"
+git-tree-sha1 = "1d3cd0ada75381d79d45f75949118dca9643dcc2"
 libc = "musl"
 os = "linux"
 
     [[gismo.download]]
-    sha256 = "638f3e91f15634122d6fc1390d8ecb5721f216dd882fb343340fb6df4711fa84"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "8c5419a935236b4b16930af3b16270bb875fee68af1fd330f95464cc15b9c346"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.x86_64-linux-musl-cxx11.tar.gz"
 [[gismo]]
 arch = "x86_64"
-git-tree-sha1 = "372c328cfd60bc153144dc134cdd555fcea71c62"
+git-tree-sha1 = "7236bb0c9441fdc53fcb11d0a670a3c6b537be8a"
 os = "freebsd"
 
     [[gismo.download]]
-    sha256 = "cc9040da1150777d58d531f0ff296ead58956567ce5865b6a221ff8b02337be9"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "b2fc83aa142b645cf34a70e5a1cbf0696562447ba7932c423b852c32ab52759b"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.x86_64-unknown-freebsd.tar.gz"
 [[gismo]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ca7a02abc2fd0572f61b2258c3502e0f995fcd64"
+git-tree-sha1 = "8a3a58b5a45000046975226a45c5c865933ef8bd"
 os = "windows"
 
     [[gismo.download]]
-    sha256 = "de95bf02337c034712f30848247c89c2496f6209cdf4fc00c30d09bbb517c232"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "46d21a13957a84bf37f085328930937292e33b583fa527620fc37d903179532f"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[gismo]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "289f50b0c647fa2ef13fbca352d790dde0083fdd"
+git-tree-sha1 = "15403a9c4ec9c5a78fd9b56b3808ec92446ecc02"
 os = "windows"
 
     [[gismo.download]]
-    sha256 = "f95e733c7d11006f4b6be2753c92da1ded28e3a848a65f782295e63d7ff5ea77"
-    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.1.0+0/gismo.v25.1.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "e9cf819e5425ef2e4d87f0d1ee28b4bdafb535bd22ce560148ba0c5888488530"
+    url = "https://github.com/JuliaBinaryWrappers/gismo_jll.jl/releases/download/gismo-v25.7.0+0/gismo.v25.7.0.x86_64-w64-mingw32-cxx11.tar.gz"
