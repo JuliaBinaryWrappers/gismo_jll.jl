@@ -3,12 +3,12 @@ export libgismo
 
 using LLVMOpenMP_jll
 JLLWrappers.@generate_wrapper_header("gismo")
-JLLWrappers.@declare_library_product(libgismo, "@rpath/libgismo.25.dylib")
+JLLWrappers.@declare_library_product(libgismo, "@rpath/libgismo.26.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(LLVMOpenMP_jll)
     JLLWrappers.@init_library_product(
         libgismo,
-        "lib/libgismo.25.7.0.dylib",
+        "lib/libgismo.26.9.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 

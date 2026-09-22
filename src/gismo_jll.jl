@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("gismo")
-JLLWrappers.@generate_main_file("gismo", UUID("c3015cfb-32aa-504c-ba3d-5541e7ecaf35"))
+JLLWrappers.@generate_main_file("gismo", Base.UUID("c3015cfb-32aa-504c-ba3d-5541e7ecaf35"))
 end  # module gismo_jll
